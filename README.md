@@ -7,7 +7,7 @@ Majority of football leagues around the world have employed a Video Assistant Re
 
 ## Features to be added
 
-- [] Detect Fouls
-- [] Detect Handballs
-- [] Detect Offsides
-- [] Detect Penalties
+- [ ] Detect Fouls
+- [ ] Detect Handballs
+- [ ] Detect Offsides
+- [ ] Detect Penalties
